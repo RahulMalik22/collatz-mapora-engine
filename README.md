@@ -2,7 +2,7 @@
 
 **Author:** Independent Researcher  
 **Status:** Active Experiment  
-**Paper:** [Link to your ViXra paper will go here later]
+
 
 ## 🧪 Project Overview
 The **Mapora Engine** (Recursive Residue Network Analyzer) is a Python-based computational tool designed to analyze the **Logical Density** of the Collatz Conjecture ($3n+1$). 
